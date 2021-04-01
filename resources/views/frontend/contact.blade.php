@@ -17,6 +17,7 @@
                     <p><span>Phone:<br></span> <a href="tel://085155300552">+62 8515-5300-0552</a></p>
                     <p><span>Email:<br></span> <a href="mailto:kontak@towerbarat.site">kontak@towerbarat.site</a></p>
                     <p><span>Website:<br></span> <a href="#">towerbarat.site</a></p>
+                    <p><span>Instagram:<br></span> <a href="https://www.instagram.com/towerbarat.creative/">towerbarat.creative</a></p>
                 </div>
             </div>
 
